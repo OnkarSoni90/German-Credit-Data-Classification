@@ -118,6 +118,6 @@ Can be loaded for deployment or further analysis.
 
 Author 
 
-Your Name-Onkar Soni 
+Onkar Soni 
 
 CSI Portal Task – Celebal Tech# German-Credit-Data-Classification
